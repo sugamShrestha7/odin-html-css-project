@@ -170,3 +170,13 @@ header a {
     font-weight: 800;
     font-size: 18px;
 }
+
+footer {
+    height: 100px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
